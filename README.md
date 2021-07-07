@@ -1,2 +1,3 @@
-# mintcraft-cadence
-Cadence demo project for Mintcraft
+# Mintcraft - Cadence Demo
+
+Cadence demo project for mintcraft
